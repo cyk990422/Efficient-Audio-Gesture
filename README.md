@@ -15,7 +15,7 @@ This is the official repository of the two papers.
 
 We used an avatar to conduct an audio narration of our method, vividly elaborating on the details of our method to everyone.
 
-
+https://github.com/user-attachments/assets/204a0806-5623-4fbe-a1e7-6f150279ea1a
 
 # News :triangular_flag_on_post:
 - [2024/12/15] **DIDiffGes got accepted by AAAI 2025!** 🎉

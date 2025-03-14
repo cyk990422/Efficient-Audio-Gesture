@@ -11,7 +11,7 @@ This is the official repository of the two papers.
 **[[Project Page](https://hologest.github.io/)]**
 
 # Method
-https://github.com/cyk990422/Efficient-Audio-Gesture/blob/main/pipeline.pdf
+![Image](https://github.com/user-attachments/assets/4472d621-1fb1-4c6b-a155-2ccfa5a8532c)
 
 # News :triangular_flag_on_post:
 - [2024/12/15] **DIDiffGes got accepted by AAAI 2025!** 🎉

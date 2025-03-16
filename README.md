@@ -35,4 +35,5 @@ pip install -r requirements.txt
 ```
 
 ## 2. Quick Start
+Code coming soon ! 
 

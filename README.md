@@ -33,11 +33,31 @@ This code was tested on `NVIDIA GeForce RTX 3070 Ti` and requires:
 * conda3 or miniconda3
 
 ```
-conda create -n EAG python=3.7
-conda activate EAG
-pip install -r requirements.txt 
+cd ./main/
+bash pip_install.sh
 ```
 
 ## 2. Quick Start
-Code coming soon ! 
 
+```
+bash demo.sh
+```
+
+## Citation
+```
+@inproceedings{yu2023acr,
+  title = {ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction},
+  author = {Yu, Zhengdi and Huang, Shaoli and Chen, Fang and Breckon, Toby P. and Wang, Jue},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month     = {June},
+  year      = {2023}
+  }
+```
+
+## Acknowledgement
+The pytorch implementation of HoloGest is based on [ExpGest](https://github.com/cyk990422/ExpGest). We use some parts of the knowledgement from [SiDDMs](https://arxiv.org/abs/2306.12511) and some part of code from [DIDiffGes]. We thank all the authors for their impressive works!
+
+## Contact
+For technical questions, please contact cyk19990422@gmail.com
+
+For commercial licensing, please contact shaolihuang@tencent.com

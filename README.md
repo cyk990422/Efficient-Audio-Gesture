@@ -22,6 +22,7 @@ We used an avatar to conduct an audio narration of our method, vividly elaborati
 https://github.com/user-attachments/assets/204a0806-5623-4fbe-a1e7-6f150279ea1a
 
 # News :triangular_flag_on_post:
+- [2025/03/17] **Code of HoloGest release** ⭐
 - [2024/12/15] **DIDiffGes got accepted by AAAI 2025!** 🎉
 - [2024/11/10] **HoloGest got accepted by 3DV 2025!** 🎉
 

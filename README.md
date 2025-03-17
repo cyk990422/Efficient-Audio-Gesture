@@ -37,7 +37,13 @@ cd ./main/
 bash pip_install.sh
 ```
 
-## 2. Quick Start
+### 2. Pre-trained model and data
+- Download [CLIP](https://drive.google.com/drive/folders/1CN9J2T1tN-F2R5qfHjOfMkGXP00oka6E?usp=drive_link) model , [ASR](https://drive.google.com/drive/folders/1tvQQp6vacDcPg5T6WZIgWjvrk46nYin4?usp=sharing)and pre-trained weights from [here](https://drive.google.com/file/d/14kH1QGBHaMLsdPIrNvEbgNnc32vfHK4U/view?usp=drive_link). Put all the folder in `./main/holgest/`.
+- Download [TextEncoder](https://drive.google.com/drive/folders/1J39SDT3RwMH7v7dJl_53stb0wkwTbXEY?usp=drive_link) and put it in `./main/model/`
+- Download WavLM weights from [here](https://drive.google.com/drive/folders/1du41ziM0utAMjCtn-YPM8ZYOI6YplHrq?usp=drive_link) and put it in `./main/hologest`
+
+
+## 3. Quick Start
 
 ```
 bash demo.sh

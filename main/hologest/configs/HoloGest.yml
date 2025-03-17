@@ -1,0 +1,32 @@
+
+# training datasets
+train_data_path: ""     # speaker_1_state_0
+val_data_path: ""
+
+# 60 fps + normalized
+data_mean: "../mean.npz"
+data_std: "../std.npz"
+
+n_poses: 72     # 88 -> 20*60
+n_codes: 30
+motion_resampling_framerate: 30     # 20 -> 60
+subdivision_stride: 10      # 10 -> 200
+batch_size: 256       # 384 -> 32
+loader_workers: 2
+epochs: 500     # 500 -> 10
+save_per_epochs: 25     # 20 -> 1
+# model_save_path: "./train_ours_jepa_semantic_all_speakers"
+model_save_path: "./train_jepa_seal_allspeakers"
+name: "DiffuseStyleGesture"
+log_interval: 50
+weight_decay: 0.0
+lr_anneal_steps: 0
+# save_dir: "./beatX_50steps_hologest_all_speakers"
+save_dir: "./beatX_50steps_hologest_all_speakers_part_hints"
+audio_feat: "wavlm"     # wav encoder; mfcc; wavlm
+
+lr: 0.00003     # 0.00003 ->
+betas: [0.5, 0.999]
+milestones: [100, 200]
+gamma: 0.1
+

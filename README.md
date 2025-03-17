@@ -51,6 +51,8 @@ bash demo.sh
 
 ## Applications
 
+https://github.com/user-attachments/assets/9ca21aab-e7ed-4326-80fc-23d2c1110f3c
+
 ## Citation
 ```
 @inproceedings{yu2023acr,

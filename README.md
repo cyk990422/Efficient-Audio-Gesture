@@ -1,6 +1,8 @@
 # Efficient-Audio-Gesture
 
-This is the official repository of the two papers.
+This is the official repository of the two papers. 
+
+(👀 DIDiffGes elaborates on the process and inference of semi-implicit accelerated diffusion. This part plays a crucial role in the efficient generation of HoloGest.)
 
 **🔥(AAAI 2025) DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech**
 > *The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025*

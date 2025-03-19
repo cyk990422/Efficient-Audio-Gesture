@@ -11,9 +11,6 @@ This is the official repository of the two papers.
 
 **🔥(3DV 2025) HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures**
 > *International Conference on 3D Vision 2025 (3DV), 2025*
-<a href='https://youtu.be/'>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=cyk990422.Efficient-Audio-Gesture&left_color=gray&right_color=orange">
-  </a>
 
 **[[Project Page](https://cyk990422.github.io/HoloGest.github.io/)]** **[[Paper](https://hologest.github.io/)]** 
 

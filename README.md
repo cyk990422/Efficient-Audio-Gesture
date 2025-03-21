@@ -43,6 +43,7 @@ bash pip_install.sh
 - Download [TextEncoder](https://drive.google.com/drive/folders/1J39SDT3RwMH7v7dJl_53stb0wkwTbXEY?usp=drive_link) and put it in `./main/model/`
 - Download WavLM weights from [here](https://drive.google.com/drive/folders/1du41ziM0utAMjCtn-YPM8ZYOI6YplHrq?usp=drive_link) and put it in `./main/hologest`
 - Download Motion-Prior from [here](https://drive.google.com/drive/folders/1-9kTNCKENK2dmPFxLCq1TitZmaC9GHIJ?usp=drive_link) and put it in `./main/hologest`
+- Download Sems-embedding model from [here](https://drive.google.com/file/d/18BW104r63BgTNF766S5ByPeKR9A7vApg/view?usp=sharing) and put it in `./main/model`
 
 
 ## 3. Quick Start

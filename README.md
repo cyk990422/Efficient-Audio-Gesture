@@ -58,13 +58,12 @@ https://github.com/user-attachments/assets/9ca21aab-e7ed-4326-80fc-23d2c1110f3c
 
 ## Citation
 ```
-@inproceedings{yu2023acr,
-  title = {ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction},
-  author = {Yu, Zhengdi and Huang, Shaoli and Chen, Fang and Breckon, Toby P. and Wang, Jue},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  month     = {June},
-  year      = {2023}
-  }
+@article{cheng2025hologest,
+  title={HoloGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures},
+  author={Cheng, Yongkang and Huang, Shaoli},
+  journal={arXiv preprint arXiv:2503.13229},
+  year={2025}
+}
 ```
 
 ## Acknowledgement

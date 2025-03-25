@@ -16,7 +16,6 @@ import torch as th
 from copy import deepcopy
 from diffusion.nn import mean_flat, sum_flat
 from diffusion.losses import normal_kl, discretized_gaussian_log_likelihood
-from data_loaders.humanml.scripts import motion_process
 
 from model.cfg_sampler import ClassifierFreeSampleModel
 from torch.nn import functional as F

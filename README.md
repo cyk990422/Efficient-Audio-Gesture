@@ -64,6 +64,13 @@ https://github.com/user-attachments/assets/9ca21aab-e7ed-4326-80fc-23d2c1110f3c
   journal={arXiv preprint arXiv:2503.13229},
   year={2025}
 }
+
+@article{cheng2025didiffges,
+  title={DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech},
+  author={Cheng, Yongkang and Huang, Shaoli and Chen, Xuelin and Ning, Jifeng and Gong, Mingming},
+  journal={arXiv preprint arXiv:2503.17059},
+  year={2025}
+}
 ```
 
 ## Acknowledgement

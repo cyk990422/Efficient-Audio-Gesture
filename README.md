@@ -74,7 +74,7 @@ https://github.com/user-attachments/assets/9ca21aab-e7ed-4326-80fc-23d2c1110f3c
 ```
 
 ## Acknowledgement
-The pytorch implementation of HoloGest is based on [ExpGest](https://github.com/cyk990422/ExpGest). We use some parts of the knowledgement from [SiDDMs](https://arxiv.org/abs/2306.12511) and some part of code from [DIDiffGes]. We thank all the authors for their impressive works!
+The pytorch implementation of HoloGest is based on [ExpGest](https://github.com/cyk990422/ExpGest). We use some parts of the knowledgement from [SiDDMs](https://arxiv.org/abs/2306.12511) and some part of code from [DIDiffGes](https://arxiv.org/abs/2503.17059). We thank all the authors for their impressive works!
 
 ## Contact
 For technical questions, please contact cyk19990422@gmail.com
